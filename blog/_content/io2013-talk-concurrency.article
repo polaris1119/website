@@ -24,5 +24,5 @@ The slides are [available here](https://talks.golang.org/2013/advconc.slide)
 (use the left and right arrows to navigate).
 
 The slides were produced with [the present tool](https://godoc.org/golang.org/x/tools/present),
-and the runnable code snippets are powered by the [Go Playground](http://play.golang.org/).
+and the runnable code snippets are powered by the [Go Playground](http://play.studygolang.com/).
 The source code for this talk is in [the go.talks sub-repository](https://github.com/golang/talks/tree/master/content/2013/advconc).

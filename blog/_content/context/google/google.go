@@ -3,7 +3,7 @@
 // Package google provides a function to do Google searches using the Google Web
 // Search API. See https://developers.google.com/web-search/docs/
 //
-// This package is an example to accompany https://blog.golang.org/context.
+// This package is an example to accompany https://docs.studygolang.com/blog/context.
 // It is not intended for use by others.
 //
 // Google has since disabled its search API,

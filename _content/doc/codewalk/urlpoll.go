@@ -20,7 +20,7 @@ const (
 var urls = []string{
 	"http://www.google.com/",
 	"http://golang.org/",
-	"http://blog.golang.org/",
+	"http://docs.studygolang.com/blog/",
 }
 
 // State represents the last-known state of a URL.

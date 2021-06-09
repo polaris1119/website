@@ -10,7 +10,7 @@ Robert Griesemer
 ## Introduction
 
 It’s been almost a year since we [last wrote about the possibility of
-adding generics to Go](https://blog.golang.org/why-generics).
+adding generics to Go](https://docs.studygolang.com/blog/why-generics).
 It’s time for an update.
 
 ## Updated design
@@ -54,7 +54,7 @@ language, will work differently.
 implementation would look like.)
 
 The tool is available on a variant of the Go playground at
-[https://go2goplay.golang.org](https://go2goplay.golang.org).
+[https://go2goplay.studygolang.com](https://go2goplay.studygolang.com).
 This playground works just like the usual Go playground, but it
 supports generic code.
 

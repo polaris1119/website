@@ -45,7 +45,7 @@ subject line, so it is easy to find.
 
 Each time a CL is reviewed and submitted, the blog is automatically deployed to App Engine.
 If the CL is submitted with a Website-Publish +1 vote,
-the new deployment automatically becomes https://blog.golang.org/.
+the new deployment automatically becomes https://docs.studygolang.com/blog/.
 Otherwise, the new deployment can be found in the
 [App Engine versions list](https://console.cloud.google.com/appengine/versions?project=golang-org&serviceId=blog) and verified and manually promoted.
 

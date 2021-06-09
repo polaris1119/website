@@ -202,7 +202,7 @@ and read the
 
 The [[https://golang.org/doc/codewalk/functions/][First Class Functions in Go]] codewalk gives an interesting perspective on Go's function types.
 
-The [[https://blog.golang.org/][Go Blog]] has a large archive of informative Go articles.
+The [[https://docs.studygolang.com/blog/][Go Blog]] has a large archive of informative Go articles.
 
 Visit [[https://golang.org][golang.org]] for more.
 

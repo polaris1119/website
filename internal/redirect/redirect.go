@@ -95,7 +95,7 @@ var cmdRedirects = map[string]string{
 }
 
 var redirects = map[string]string{
-	"/blog":       "https://blog.golang.org",
+	"/blog":       "https://docs.studygolang.com/blog",
 	"/build":      "https://build.golang.org",
 	"/change":     "https://go.googlesource.com/go",
 	"/cl":         "https://go-review.googlesource.com",
@@ -104,7 +104,7 @@ var redirects = map[string]string{
 	"/issue/new":  "https://github.com/golang/go/issues/new",
 	"/issues":     "https://github.com/golang/go/issues",
 	"/issues/new": "https://github.com/golang/go/issues/new",
-	"/play":       "https://play.golang.org",
+	"/play":       "https://play.studygolang.com",
 	"/design":     "https://go.googlesource.com/proposal/+/master/design",
 
 	// In Go 1.2 the references page is part of /doc/.
@@ -142,10 +142,10 @@ var redirects = map[string]string{
 var prefixHelpers = map[string]string{
 	"issue":  "https://github.com/golang/go/issues/",
 	"issues": "https://github.com/golang/go/issues/",
-	"play":   "https://play.golang.org/",
+	"play":   "https://play.studygolang.com/",
 	"talks":  "https://talks.golang.org/",
 	"wiki":   "https://github.com/golang/go/wiki/",
-	"blog":   "https://blog.golang.org/",
+	"blog":   "https://docs.studygolang.com/blog/",
 }
 
 func Handler(target string) http.Handler {

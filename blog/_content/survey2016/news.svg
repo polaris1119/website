@@ -26,7 +26,7 @@
 <rect x="15.98em" y="2.10em" width="0.43em" height="0.60em" stroke="#7a7aff" fill="#7a7aff"/>
 <rect x="16.41em" y="2.10em" width="0.21em" height="0.60em" stroke="#a3a3ff" fill="#a3a3ff"/>
 <text x="11.50em" y="2.70em" text-anchor="end"><tspan class="size">1,659 (<tspan fill="#0000ff">17</tspan>, <tspan fill="#2828ff">14</tspan>, <tspan fill="#5151ff">9</tspan>, <tspan fill="#7a7aff">4</tspan>, <tspan fill="#a3a3ff">2</tspan>%)</tspan></text>
-<text x="17.11em" y="2.70em"><tspan class="size">blog.Golang.org</tspan></text>
+<text x="17.11em" y="2.70em"><tspan class="size">docs.studygolang.com/blog</tspan></text>
 <rect x="12.00em" y="3.30em" width="1.71em" height="0.60em" stroke="#0000ff" fill="#0000ff"/>
 <rect x="13.71em" y="3.30em" width="0.80em" height="0.60em" stroke="#2828ff" fill="#2828ff"/>
 <rect x="14.51em" y="3.30em" width="0.41em" height="0.60em" stroke="#5151ff" fill="#5151ff"/>

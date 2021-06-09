@@ -62,7 +62,7 @@ the new [`encoding` package](https://golang.org/doc/go1.2#encoding),
 [indexed arguments](https://golang.org/doc/go1.2#fmt_indexed_arguments) in `Printf` format strings, and
 some [convenient additions](https://golang.org/doc/go1.2#text_template) to the template packages.
 
-As part of the release, the [Go Playground](http://play.golang.org/) has been
+As part of the release, the [Go Playground](http://play.studygolang.com/) has been
 updated to Go 1.2. This also affects services that use the Playground, such as
 [the Go Tour](http://tour.golang.org/) and this blog.
 The update also adds the ability to use threads and the `os`, `net`, and

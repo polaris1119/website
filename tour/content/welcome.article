@@ -81,7 +81,7 @@ Click the [[javascript:highlightAndClick(".next-page")]["next"]] button or type 
 
 #appengine: * The Go Playground
 #appengine:
-#appengine: This tour is built atop the [[https://play.golang.org/][Go Playground]], a
+#appengine: This tour is built atop the [[https://play.studygolang.com/][Go Playground]], a
 #appengine: web service that runs on [[https://golang.org/][golang.org]]'s servers.
 #appengine:
 #appengine: The service receives a Go program, compiles, links, and runs the program inside
@@ -95,7 +95,7 @@ Click the [[javascript:highlightAndClick(".next-page")]["next"]] button or type 
 #appengine:
 #appengine: The playground uses the latest stable release of Go.
 #appengine:
-#appengine: Read "[[https://blog.golang.org/playground][Inside the Go Playground]]" to learn more.
+#appengine: Read "[[https://docs.studygolang.com/blog/playground][Inside the Go Playground]]" to learn more.
 #appengine:
 #appengine: .play welcome/sandbox.go
 

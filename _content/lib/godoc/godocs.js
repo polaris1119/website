@@ -154,7 +154,7 @@
           runEl: $('.run', el),
           fmtEl: $('.fmt', el),
           shareEl: $('.share', el),
-          shareRedirect: '//play.golang.org/p/',
+          shareRedirect: '//play.studygolang.com/p/',
         });
 
         // Make the code textarea resize to fit content.

@@ -3,7 +3,7 @@
 // Package userip provides functions for extracting a user IP address from a
 // request and associating it with a Context.
 //
-// This package is an example to accompany https://blog.golang.org/context.
+// This package is an example to accompany https://docs.studygolang.com/blog/context.
 // It is not intended for use by others.
 package userip
 

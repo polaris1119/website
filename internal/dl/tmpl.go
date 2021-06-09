@@ -99,7 +99,7 @@ const templateHTML = `
       <li class="Header-menuItem"><a href="/help/">Help</a></li>
       {{if not .GoogleCN}}
         <li class="Header-menuItem"><a href="/blog/">Blog</a></li>
-        <li class="Header-menuItem"><a href="https://play.golang.org/">Play</a></li>
+        <li class="Header-menuItem"><a href="https://play.studygolang.com/">Play</a></li>
       {{end}}
     </ul>
   </nav>

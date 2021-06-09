@@ -10,7 +10,7 @@ Tyler Bui-Palsulich
 ##
 
 [App Engine](https://cloud.google.com/appengine/) launched
-[experimental support for Go](https://blog.golang.org/go-and-google-app-engine)
+[experimental support for Go](https://docs.studygolang.com/blog/go-and-google-app-engine)
 in 2011. In the subsequent years, the Go community has grown significantly and
 has settled on idiomatic
 patterns for cloud-based applications. Today, Google Cloud is

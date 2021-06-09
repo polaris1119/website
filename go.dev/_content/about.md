@@ -36,7 +36,7 @@ Note that we can only remove a module entirely from the site. We cannot remove i
 
 Documentation is generated based on Go source code downloaded from the Go Module Mirror at `proxy.golang.org/<module>/@v/<version>.zip`. New module versions are fetched from index.golang.org and added to pkg.go.dev site every few minutes.
 
-The [guidelines for writing documentation](https://blog.golang.org/godoc) for the godoc tool apply to pkg.go.dev.
+The [guidelines for writing documentation](https://docs.studygolang.com/blog/godoc) for the godoc tool apply to pkg.go.dev.
 
 It’s important to write a good summary of the package in the first sentence of the package comment. The go.dev site indexes the first sentence and displays it in search results.
 
@@ -102,10 +102,10 @@ Here are the details we surface:
   * Redistributable licenses place minimal restrictions on how software can be used, modified, and redistributed. For more information on how pkg.go.dev determines if a license is redistributable, see our [license policy](http://pkg.go.dev/license-policy).
 
 * Tagged version
-  * When the go get command resolves modules by default it prioritizes tagged versions. When no tagged versions exist, go get looks up the latest known commit. Modules with tagged versions give importers more predictable builds. See [semver.org](https://semver.org) and [Keeping Your Modules Compatible](https://blog.golang.org/module-compatibility) for more information.
+  * When the go get command resolves modules by default it prioritizes tagged versions. When no tagged versions exist, go get looks up the latest known commit. Modules with tagged versions give importers more predictable builds. See [semver.org](https://semver.org) and [Keeping Your Modules Compatible](https://docs.studygolang.com/blog/module-compatibility) for more information.
 
 * Stable version
-  * Projects at v0 are assumed to be experimental. When a project reaches a stable version — major version v1 or higher — breaking changes must be done in a new major version. Stable versions give developers the confidence that breaking changes won’t occur when they upgrade a package to the latest minor version. See [Go Modules: v2 and Beyond](https://blog.golang.org/v2-go-modules) for more information.
+  * Projects at v0 are assumed to be experimental. When a project reaches a stable version — major version v1 or higher — breaking changes must be done in a new major version. Stable versions give developers the confidence that breaking changes won’t occur when they upgrade a package to the latest minor version. See [Go Modules: v2 and Beyond](https://docs.studygolang.com/blog/v2-go-modules) for more information.
 
 ## Creating a badge
 

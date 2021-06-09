@@ -123,5 +123,5 @@ func fmtHandler(w http.ResponseWriter, r *http.Request) {
 }
 
 func blogHandler(w http.ResponseWriter, r *http.Request) {
-	http.Redirect(w, r, "https://blog.golang.org"+strings.TrimPrefix(r.URL.Path, "/blog"), http.StatusFound)
+	http.Redirect(w, r, "https://docs.studygolang.com/blog"+strings.TrimPrefix(r.URL.Path, "/blog"), http.StatusFound)
 }

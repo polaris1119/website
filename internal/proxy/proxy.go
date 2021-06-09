@@ -21,7 +21,7 @@ import (
 	"golang.org/x/website/internal/env"
 )
 
-const playgroundURL = "https://play.golang.org"
+const playgroundURL = "https://play.studygolang.com"
 
 type Request struct {
 	Body string

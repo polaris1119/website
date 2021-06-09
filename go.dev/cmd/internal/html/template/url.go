@@ -172,7 +172,7 @@ func srcsetFilterAndEscaper(args ...interface{}) string {
 	return b.String()
 }
 
-// Derived from https://play.golang.org/p/Dhmj7FORT5
+// Derived from https://play.studygolang.com/p/Dhmj7FORT5
 const htmlSpaceAndASCIIAlnumBytes = "\x00\x36\x00\x00\x01\x00\xff\x03\xfe\xff\xff\x07\xfe\xff\xff\x07"
 
 // isHTMLSpace is true iff c is a whitespace character per

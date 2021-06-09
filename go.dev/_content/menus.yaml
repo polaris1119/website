@@ -21,7 +21,7 @@ footer:
     url: /learn/
     children:
     - name: Playground
-      url: https://play.golang.org
+      url: https://play.studygolang.com
     - name: Tour
       url: https://tour.golang.org
     - name: Stack Overflow
@@ -36,13 +36,13 @@ footer:
     - name: Download
       url: https://golang.org/dl/
     - name: Blog
-      url: https://blog.golang.org
+      url: https://docs.studygolang.com/blog
     - name: Issue Tracker
       url: https://github.com/golang/go/issues
     - name: Release Notes
       url: https://golang.org/doc/devel/release.html
     - name: Brand Guidelines
-      url: https://blog.golang.org/go-brand
+      url: https://docs.studygolang.com/blog/go-brand
     - name: Code of Conduct
       url: https://golang.org/conduct
 

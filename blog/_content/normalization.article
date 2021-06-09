@@ -7,13 +7,13 @@ Marcel van Lohuizen
 
 ## Introduction
 
-An earlier [post](https://blog.golang.org/strings) talked about strings, bytes
+An earlier [post](https://docs.studygolang.com/blog/strings) talked about strings, bytes
 and characters in Go. I've been working on various packages for multilingual
 text processing for the go.text repository. Several of these packages deserve a
 separate blog post, but today I want to focus on
 [go.text/unicode/norm](https://godoc.org/code.google.com/p/go.text/unicode/norm),
 which handles normalization, a topic touched in the
-[strings article](https://blog.golang.org/strings) and the subject of this
+[strings article](https://docs.studygolang.com/blog/strings) and the subject of this
 post. Normalization works at a higher level of abstraction than raw bytes.
 
 To learn pretty much everything you ever wanted to know about normalization
