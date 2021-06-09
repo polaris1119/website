@@ -22,7 +22,7 @@ const hostname = "docs.studygolang.com/blog" // default hostname for blog server
 var config = blog.Config{
 	Hostname:     hostname,
 	BaseURL:      "https://" + hostname,
-	GodocURL:     "https://golang.org",
+	GodocURL:     "https://docs.studygolang.com",
 	HomeArticles: 5,  // articles to display on the home page
 	FeedArticles: 10, // articles to include in Atom and JSON feeds
 	PlayEnabled:  true,
