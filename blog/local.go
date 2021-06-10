@@ -75,13 +75,6 @@ func newServer(reload bool, config blog.Config) (http.Handler, error) {
 	}
 	mux.Handle("/", maybeStatic(h))
 
-	// 让 /blog 可以正常共工作：add by xuxinhua
-	redirect := func(w http.ResponseWriter, r *http.Request) {
-		http.Redirect(w, r, "/", http.StatusFound)
-	}
-	mux.HandleFunc("/blog", redirect)
-	mux.HandleFunc("/blog/", redirect)
-
 	return mux, nil
 }
 
