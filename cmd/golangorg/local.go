@@ -17,7 +17,7 @@ import (
 
 	// This package registers "/compile" and "/share" handlers
 	// that redirect to the golang.org playground.
-	_ "golang.org/x/tools/playground"
+	_ "github.com/polaris1119/tools/playground"
 )
 
 func earlySetup() {
@@ -36,5 +36,5 @@ func earlySetup() {
 
 func lateSetup(mux *http.ServeMux) {
 	// Register a redirect handler for /dl/ to the golang.org download page.
-	mux.Handle("/dl/", http.RedirectHandler("https://golang.org/dl/", http.StatusFound))
+	mux.Handle("/dl/", http.RedirectHandler("https://studygolang.com/dl", http.StatusFound))
 }
